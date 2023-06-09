@@ -1,0 +1,1 @@
+his directory contain the second project on shell basics and permissions.
